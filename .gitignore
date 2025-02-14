@@ -2,7 +2,7 @@
 /.bench
 *.mem
 *.cpu
-*.test
+*.test 
 *.log
 *.out
 *.html
